@@ -1,0 +1,26 @@
+img {
+
+  width: 300px;
+}
+
+.water p {
+  background-color: blue;
+}
+.countries p a{
+  font-style: italic;
+}
+.columnone{
+  color: green;
+  float: right;
+}
+.columntwo{
+  color: green;
+  float: right;
+}
+.columnthree{
+  color: green;
+  float: right;
+}
+.countries h2{
+  color:red;
+}
